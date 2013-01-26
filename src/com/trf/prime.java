@@ -32,6 +32,7 @@ class Decomposition{
 		for(; i <= n;){
 			if(i == n){
 				System.out.print(i);
+				break;
 			}
 			else if (n % i == 0){
 				System.out.print(i+"*");
