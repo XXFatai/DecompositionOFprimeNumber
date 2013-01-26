@@ -6,7 +6,7 @@
  * Author:   润发
  * Date:     2013-1-26 下午3:21:18  
  * Version :
- * Description:
+ * Description:将一个正整数分解质因数。例如：输入90,打印出90=2*3*3*5。
  **********************************************************/
 package com.trf;
 import java.util.Scanner;
